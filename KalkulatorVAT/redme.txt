@@ -1,0 +1,1 @@
+Mój pierwszy program liczący podatek VAT od podanych kwot.
